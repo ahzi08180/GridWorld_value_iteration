@@ -11,8 +11,7 @@
 - **互動式體驗**：支援即時重新生成策略，觀察價值函數的動態變化。
 
 ## 專案展示
-![GridWorld Demo](https://raw.githubusercontent.com/ahzi08180/GridWorld_Random/main/demo.gif)
-*(註：此處可替換為實際的專案截圖或 GIF)*
+![GridWorld Demo](https://gridworldrandom-gpywymxsy6njquyjluhf6g.streamlit.app/)
 
 ## 技術堆疊
 - **Backend**: Python, Flask, NumPy

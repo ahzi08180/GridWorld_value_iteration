@@ -76,6 +76,8 @@ html_code = """
             border-radius: 4px;
             width: 100%;
             aspect-ratio: 1/1;
+            max-width: 300px;
+            margin: 0 auto;
         }
 
         .cell {
